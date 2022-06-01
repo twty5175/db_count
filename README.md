@@ -10,12 +10,12 @@
 > 5. 카운트를 출력합니다.
 
 ### 실행 화면
-1.db_count.php 샐행화면
+1. db_count.php 실행화면
 ![image](https://user-images.githubusercontent.com/89179991/171313391-7fcfa6a6-961a-4042-8b8c-bb90c84498c1.png)
 
 
-2.count_table에 저장된 방문 횟수
+2. count_table에 저장된 방문 횟수
 ![image](https://user-images.githubusercontent.com/89179991/171313722-e7a4f25c-26ff-40ab-8a84-a25679b15282.png)
 
-3.F5키 또는 [새로고침] 을 눌려 방문 횟수 증가 확인
+3. F5키 또는 [새로고침] 을 눌러 방문 횟수 증가 확인
 ![image](https://user-images.githubusercontent.com/89179991/171313887-a9812387-4527-4c51-820a-34c341f98ce3.png)
